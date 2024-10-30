@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "get_next_line_bonus.h"
 
 static t_file	*get_file_fd(int fd, t_file **file_tracker)
